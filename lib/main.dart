@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import './router/web_router.dart';
 import 'auth/auth_service.dart';
+import 'router/web_router.dart';
 
 void main() {
   runApp(const App());
